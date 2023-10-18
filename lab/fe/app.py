@@ -29,7 +29,7 @@ with st.sidebar:
     
     ''')
     add_vertical_space(5)
-    st.write('Made with ❤️ by your AWS WWSO AIML EMEA Team')
+    st.write('Made with ❤️ - Dev Day Thailand')
 
 st.markdown("""
         <style>
